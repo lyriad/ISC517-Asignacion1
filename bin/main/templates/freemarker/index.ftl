@@ -105,7 +105,7 @@
 		<div id="deleteStudentModal" class="modal fade">
 			<div class="modal-dialog">
 				<div class="modal-content">
-					<form method="" action="/delete">
+					<form method="GET" action="/delete">
 						<div class="modal-header">						
 							<h4 class="modal-title">Eliminar estudiante</h4>
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
